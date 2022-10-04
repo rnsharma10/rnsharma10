@@ -1,1 +1,1 @@
-![Banner](./assets/gitCver.png)
+![Banner](./assets/gitCover.png)
